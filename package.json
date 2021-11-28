@@ -3,10 +3,6 @@
   "version": "1.0.0",
   "description": "Create abfeng_homepage",
   "main": "index.js",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {},
   "scripts": {
     "dev": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/Kyu-d/abfeng_homepage/issues"
   },
-  "homepage": "https://github.com/Kyu-d/abfeng_homepage#readme"
+  "homepage": "https://github.com/Kyu-d/abfeng_homepage#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4"
+  }
 }
