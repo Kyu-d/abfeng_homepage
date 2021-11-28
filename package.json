@@ -1,0 +1,23 @@
+{
+  "name": "abfeng_homepage",
+  "version": "1.0.0",
+  "description": "Create abfeng_homepage",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyu-d/abfeng_homepage.git"
+  },
+  "author": "kyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyu-d/abfeng_homepage/issues"
+  },
+  "homepage": "https://github.com/Kyu-d/abfeng_homepage#readme"
+}
